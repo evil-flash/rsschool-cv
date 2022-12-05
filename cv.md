@@ -30,3 +30,26 @@ I am 31 years old, I work as a deputy chief. My actual job lead me to stagnation
 Specialist Degree, BELARUSIAN-RUSSIAN UNIVERSITY
 
 ---
+
+## Skills:
+* HTML5, CSS3
+* Git, GitHub
+* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
+* Figma, Photoshop
+
+---
+
+## Code example:
+```
+function spinWords(string) {
+  let arr = string.split(" ");
+  arr.map((i, index) => {
+    if (i.length > 4) {
+      arr[index] = i.split("").reverse().join("");
+    }
+  });
+  return arr.join(' ')
+}
+```
+
+---
