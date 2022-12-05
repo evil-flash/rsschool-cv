@@ -20,3 +20,13 @@
 [Linkedln](https://linkedin.com/in/yuriy-haradzetski-a0a539255 "Linkedln")  
 
 ---
+
+## Briefly About Myself:
+I am 31 years old, I work as a deputy chief. My actual job lead me to stagnation . I really need in activities where I can develop during my life. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
+
+---
+
+## Education:
+Specialist Degree, BELARUSIAN-RUSSIAN UNIVERSITY
+
+---
