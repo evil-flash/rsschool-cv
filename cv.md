@@ -53,3 +53,8 @@ function spinWords(string) {
 ```
 
 ---
+
+## Languages:
+* Russian - Native
+* Polish - Basic
+* English - A2 (Pre-Intermediate)
