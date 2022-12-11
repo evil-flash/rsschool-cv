@@ -38,7 +38,7 @@
     </header>
     <main>
       <div class="container">
-        <div class="main-info">
+        <div class="main-block">
           <div class="left-block">
             <section class="section">
               <div class="section-header">ABOUT ME</div>
@@ -70,8 +70,42 @@
                 </ul>
               </div>
             </section>
+            <section class="section">
+              <div class="section-header">SKILLS</div>
+              <section class="section-content">
+                <ul>
+                  <li class="skills">HTML5, CSS3</li>
+                  <li class="skills">Git, GitHub</li>
+                  <li class="skills">JavaScript</li>
+                  <li class="skills">Figma, Photoshop</li>
+                </ul>
+              </section>
+            </section>
           </div>
-          <div class="right-block"></div>
+          <div class="right-block">
+            <section class="section">
+              <div class="section-header">Education</div>
+              <div class="section-content">Specialist Degree, BELARUSIAN-RUSSIAN UNIVERSITY</div>
+            </section>
+            <section class="section">
+              <div class="section-header">Code example</div>
+              <div class="section-content">
+                <pre>
+                <code>
+                  function spinWords(string) {
+                    let arr = string.split(" ");
+                    arr.map((i, index) => {
+                      if (i.length > 4) {
+                        arr[index] = i.split("").reverse().join("");
+                      }
+                    });
+                    return arr.join(' ')
+                  }
+                </code>
+              </pre>
+              </div>
+            </section>
+          </div>
         </div>
       </div>
     </main>
