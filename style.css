@@ -23,6 +23,23 @@ a {
 li {
   list-style-type: none;
   margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.skills{
+  justify-content: space-between;
+}
+
+progress{
+  margin-left: 10px;
+  width: 50%;
+  background-color: #a7a9ac;
+  height: 5px;
+}
+
+progress::-webkit-progress-value {
+  background: #414142;
 }
 
 .container {
@@ -142,7 +159,7 @@ margin-top: 20px;
   align-items: center;
 }
 
-.contacts{
+.skills-block{
   display: flex;
   align-items: center;
 }
