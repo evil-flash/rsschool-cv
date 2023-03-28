@@ -1,5 +1,5 @@
 var i = 0;
-var txt = "Front-End Developer < >";
+var txt = "Front-End Developer </>";
 var speed = 100;
 
 function typeWriter() {
