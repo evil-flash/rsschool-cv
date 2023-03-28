@@ -1,1 +1,1 @@
-https://evil-flash.github.io/rsschool-cv/cv
+https://evil-flash.github.io/rsschool-cv/
